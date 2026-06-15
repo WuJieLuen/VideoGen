@@ -1,0 +1,11 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+models--THUDM--CogVideoX-2b
+*.mp4
+# Virtual environments
+.venv
