@@ -9,6 +9,7 @@ dependencies = [
     "diffusers>=0.38.0",
     "imageio>=2.37.3",
     "imageio-ffmpeg>=0.6.0",
+    "opencv-python>=4.13.0.92",
     "protobuf>=7.35.1",
     "sentencepiece>=0.2.1",
     "tiktoken>=0.13.0",
